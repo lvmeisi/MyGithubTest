@@ -1,0 +1,10 @@
+//main.cpp
+
+
+void main()
+{
+	
+	
+	
+	
+}
